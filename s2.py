@@ -6,7 +6,7 @@
 ## see https://en.wikipedia.org/wiki/No_Thanks!_(game)
 ##
 ##
-## This program simulates the all pairs of strategies in strategy 1.
+## This program simulates the all pairs of strategies in strategy 2.
 ##
 ##
 import itertools,random
